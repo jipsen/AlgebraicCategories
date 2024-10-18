@@ -1,6 +1,10 @@
 # Abelian groups
 
-Abbreviation: **AbGrp** [Abelian group](https://en.wikipedia.org/wiki/Abelian_group)
+Abbreviation: **AbGrp** 
+
+[Abelian group](https://en.wikipedia.org/wiki/Abelian_group) 
+
+[abelian group (Q181296)](https://www.wikidata.org/wiki/Q181296)
 
 ## Definition
 An ***abelian group*** is a structure $\mathbf{G}=\langle
