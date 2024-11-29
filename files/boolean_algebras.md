@@ -1,9 +1,11 @@
 # Boolean algebras
 
-Abbreviation: **BA** nbsp nbsp nbsp nbsp nbsp Search: [http://www.google.com/search?q=boolean+algebras|Boolean algebras](http://www.google.com/search?q=boolean+algebras|boolean_algebras.md)
-[http://www.google.com/search?q=boolean+rings|Boolean rings](http://www.google.com/search?q=boolean+rings|boolean_rings.md)
+Abbreviation: **BA** 
 
-## Definition
+[Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
+
+[boolean algebra (Q173183)](https://www.wikidata.org/wiki/Q173183)
+
 A ***Boolean algebra*** is a structure $\mathbf{A}=\langle A,\vee
 ,0,\wedge ,1,-\rangle$ of type $\langle 2,0,2,0,1\rangle$
 such that
